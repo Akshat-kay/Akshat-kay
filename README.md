@@ -29,7 +29,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akshat-kay&repo=Speech-_Analytics_Dashboard&theme=radical)](https://github.com/Akshat-kay/Speech-_Analytics_Dashboard)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akshat-kay&repo=Speech-django-ecs-ec2-deployment&theme=radical)](https://github.com/Akshat-kay/django-ecs-ec2-deployment)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akshat-kay&repo=voting-app&theme=radical)](https://github.com/Akshat-kay/voting-app)
 
 ## 🌐 Connect With Me
 
