@@ -34,7 +34,7 @@
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/786akshatk/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=google-chrome)]([your-portfolio-url](https://akshatkashyap.cloud/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=google-chrome)](https://akshatkashyap.cloud/)
 
 ![Visitor Count](https://profile-counter.glitch.me/Akshat-kay/count.svg)
 
